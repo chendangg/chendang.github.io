@@ -1,7 +1,7 @@
 # Welcome to my page!
 
 ## Education <br />
-MA, Social Sciences (Psychology), University of Chicago (_21-22_)
+MA, Social Sciences (Psychology), University of Chicago (_21-22_) <br />
 BS, Psychology & Rhetoric and Communication, University of Pittsburgh (_18-21_)
 
 ## Professional Training <br />
@@ -38,7 +38,7 @@ Laboratory Research Assistant, Personality Processes and Outcomes Lab （_Jul 20
 
 ## Honors, Fellowship, and Scholarships <br />
 **The Resilient Communities Fellowship, University of Chicago, 2022** <br />
-The $10,000 fellowship was granted to fund research in the city of Chicago for research on public policies for developing and delivering innovative human services programs
+The $10,000 fellowship was granted to fund research in the city of Chicago for research on public policies for developing and delivering innovative human services programs <br />
 **Phoenix Research Award Scholarship, University of Chicago, 2021** <br />
 The $20,000 scholarship was granted based on previous academic achievements <br />
 **Member of Psi Chi Intl. Honor Society in Psychology, University of Pittsburgh, 2020** <br />
@@ -53,16 +53,16 @@ _"Chinese Women's Modern History and Movements and A Narration of the History of
 ## Extracurricular Research, Teaching, and Other Experience <br />
 ***Freelance Academic Consultant***, Tops Intl. Education, China, Jan 24 - Apr 24
 - Undergraduate and graduate admission consulting, career planning, and arrangement
-- Delivered essay workshops and human services <br />
+- Delivered essay workshops and human services
 ***Part-time VIP Teacher***, Ruitu School, Beijing, China, Jan 24 - Feb 24
-- K-12 English teaching, National Geographic <br />
+- K-12 English teaching, National Geographic
 ***Tutorship***, Eduease.com, China, Jul 23 - Dec 23
 - Cambridge International Advanced Subsidiary & General Certificate of Education Advanced Level (AS GCE A-Level), Psychology
 ***Winter School Attendee***, Chinese Institute for Brain Research (CIBR), China, Jan 23 <br />
- - Competitively selected and enrolled, a short-term program aimed to provide brain science-related lectures and seminars about cutting-edge research progress in neuroscience <br />
+ - Competitively selected and enrolled in a short-term program aimed to provide brain science-related lectures and seminars about cutting-edge research progress in neuroscience
 ***Convocation Student Staff***, Organizational assistance, University of Chicago, U.S., June 22 <br />
 ***Teaching Assistant***, New Channel International Group, China, Apr 19 - Aug 19 <br />
-- Tutoring college and graduate students in verbal English and TOEFL, IELTS, and SAT; competitively selected as a senior TA based on excellent performance and a member to attend advanced pedagogical seminars <br />
+- Tutoring college and graduate students in verbal English and TOEFL, IELTS, and SAT; competitively selected as a senior TA based on excellent performance and a member to attend advanced pedagogical seminars
 ***Volunteer Interpreter***, English Translation, Baoye Group Co., Ltd., China, May 19 <br />
 ***Community Service Volunteer***, JumpStart Program, University of Pittsburgh, U.S., Jan 19
 
