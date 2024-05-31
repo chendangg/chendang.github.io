@@ -54,16 +54,23 @@ _"Chinese Women's Modern History and Movements and A Narration of the History of
 ***Freelance Academic Consultant***, Tops Intl. Education, China, Jan 24 - Apr 24
 - Undergraduate and graduate admission consulting, career planning, and arrangement
 - Delivered essay workshops and human services
+  
 ***Part-time VIP Teacher***, Ruitu School, Beijing, China, Jan 24 - Feb 24
 - K-12 English teaching, National Geographic
+  
 ***Tutorship***, Eduease.com, China, Jul 23 - Dec 23
 - Cambridge International Advanced Subsidiary & General Certificate of Education Advanced Level (AS GCE A-Level), Psychology
+
 ***Winter School Attendee***, Chinese Institute for Brain Research (CIBR), China, Jan 23 <br />
  - Competitively selected and enrolled in a short-term program aimed to provide brain science-related lectures and seminars about cutting-edge research progress in neuroscience
-***Convocation Student Staff***, Organizational assistance, University of Chicago, U.S., June 22 <br />
-***Teaching Assistant***, New Channel International Group, China, Apr 19 - Aug 19 <br />
+
+***Convocation Student Staff***, Organizational assistance, University of Chicago, U.S., June 22
+
+***Teaching Assistant***, New Channel International Group, China, Apr 19 - Aug 19
 - Tutoring college and graduate students in verbal English and TOEFL, IELTS, and SAT; competitively selected as a senior TA based on excellent performance and a member to attend advanced pedagogical seminars
-***Volunteer Interpreter***, English Translation, Baoye Group Co., Ltd., China, May 19 <br />
+  
+***Volunteer Interpreter***, English Translation, Baoye Group Co., Ltd., China, May 19
+
 ***Community Service Volunteer***, JumpStart Program, University of Pittsburgh, U.S., Jan 19
 
 ## Language Proficiency <br />
@@ -74,19 +81,19 @@ Affective Neuroscience, Mechanisms of Motivated Cognition, Computing for the Soc
 
 ## Reference <br />
 **Dr. Jean Decety, Ph.D.** <br />
-         &nbsp; Irving B. Harris Distinguished Service Professor <br />
-         &nbsp; Department of Psychology, University of Chicago <br />
-         &nbsp; E-mail: decety@uchicago.edu <br />
-         &nbsp; Phone: 773-834-3711
+         &nbsp; &nbsp; &nbsp; Irving B. Harris Distinguished Service Professor <br />
+         &nbsp; &nbsp; &nbsp; Department of Psychology, University of Chicago <br />
+         &nbsp; &nbsp; &nbsp; E-mail: decety@uchicago.edu <br />
+         &nbsp; &nbsp; &nbsp; Phone: 773-834-3711
 
 **Dr. Jana M. Iverson, Ph.D.** <br />
-         &nbsp; Professor, Associate Dean for Research <br />
-         &nbsp; College of Health & Rehabilitation Sciences: Sargent College, Boston University <br />
-         &nbsp; E-mail: iversonj@bu.edu <br />
-         &nbsp; Phone: 617-358-5480
+         &nbsp; &nbsp; &nbsp; Professor, Associate Dean for Research <br />
+         &nbsp; &nbsp; &nbsp; College of Health & Rehabilitation Sciences: Sargent College, Boston University <br />
+         &nbsp; &nbsp; &nbsp; E-mail: iversonj@bu.edu <br />
+         &nbsp; &nbsp; &nbsp; Phone: 617-358-5480
 
 **Dr. Yuan Chang Leong, Ph.D.** <br />
-         &nbsp; Assistant Professor <br />
-         &nbsp; Department of Psychology, University of Chicago <br />
-         &nbsp; E-mail: ycleong@uchicago.edu <br /> 
-         &nbsp; Phone: 773-834-9532
+         &nbsp; &nbsp; &nbsp; Assistant Professor <br />
+         &nbsp; &nbsp; &nbsp; Department of Psychology, University of Chicago <br />
+         &nbsp; &nbsp; &nbsp; E-mail: ycleong@uchicago.edu <br /> 
+         &nbsp; &nbsp; &nbsp; Phone: 773-834-9532
