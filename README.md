@@ -74,19 +74,19 @@ Affective Neuroscience, Mechanisms of Motivated Cognition, Computing for the Soc
 
 ## Reference <br />
 **Dr. Jean Decety, Ph.D.** <br />
-         Irving B. Harris Distinguished Service Professor <br />
-         Department of Psychology, University of Chicago <br />
-         E-mail: _decety@uchicago.edu_ <br />
-         Phone: 773-834-3711
+         &nbsp; Irving B. Harris Distinguished Service Professor <br />
+         &nbsp; Department of Psychology, University of Chicago <br />
+         &nbsp; E-mail: decety@uchicago.edu <br />
+         &nbsp; Phone: 773-834-3711
 
 **Dr. Jana M. Iverson, Ph.D.** <br />
-         Professor, Associate Dean for Research <br />
-         College of Health & Rehabilitation Sciences: Sargent College, Boston University <br />
-         E-mail: _iversonj@bu.edu <br />
-         Phone: 617-358-5480
+         &nbsp; Professor, Associate Dean for Research <br />
+         &nbsp; College of Health & Rehabilitation Sciences: Sargent College, Boston University <br />
+         &nbsp; E-mail: iversonj@bu.edu <br />
+         &nbsp; Phone: 617-358-5480
 
 **Dr. Yuan Chang Leong, Ph.D.** <br />
-         Assistant Professor <br />
-         Department of Psychology, University of Chicago <br />
-         E-mail: _ycleong@uchicago.edu_ <br /> 
-         Phone: 773-834-9532
+         &nbsp; Assistant Professor <br />
+         &nbsp; Department of Psychology, University of Chicago <br />
+         &nbsp; E-mail: ycleong@uchicago.edu <br /> 
+         &nbsp; Phone: 773-834-9532
