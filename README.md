@@ -1,4 +1,7 @@
-# Welcome to my page!
+# Welcome to my page! <br />
+## My name is Chen Dang, and here is some information about myself: <br />
+Tel: +86 13971056980 <br />
+E-mail: cdang0073@gmail.com
 
 ## Education <br />
 MA, Social Sciences (Psychology), University of Chicago (_21-22_) <br />
