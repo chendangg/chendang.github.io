@@ -1,5 +1,4 @@
 # Welcome to my page! <br />
-## My name is Chen Dang, and here is some information about myself: <br />
 Tel: +86 13971056980 <br />
 E-mail: cdang0073@gmail.com
 
@@ -66,14 +65,10 @@ _"Chinese Women's Modern History and Movements and A Narration of the History of
 
 ***Winter School Attendee***, Chinese Institute for Brain Research (CIBR), China, Jan 23 <br />
  - Competitively selected and enrolled in a short-term program aimed to provide brain science-related lectures and seminars about cutting-edge research progress in neuroscience
-
-***Convocation Student Staff***, Organizational assistance, University of Chicago, U.S., June 22
-
+***Convocation Student Staff***, Organizational assistance, University of Chicago, U.S., June 22 <br />
 ***Teaching Assistant***, New Channel International Group, China, Apr 19 - Aug 19
-- Tutoring college and graduate students in verbal English and TOEFL, IELTS, and SAT; competitively selected as a senior TA based on excellent performance and a member to attend advanced pedagogical seminars
-  
-***Volunteer Interpreter***, English Translation, Baoye Group Co., Ltd., China, May 19
-
+- Tutoring college and graduate students in verbal English and TOEFL, IELTS, and SAT; competitively selected as a senior TA based on excellent performance and a member to attend advanced pedagogical seminars <br />
+***Volunteer Interpreter***, English Translation, Baoye Group Co., Ltd., China, May 19 <br />
 ***Community Service Volunteer***, JumpStart Program, University of Pittsburgh, U.S., Jan 19
 
 ## Language Proficiency <br />
@@ -91,7 +86,7 @@ Affective Neuroscience, Mechanisms of Motivated Cognition, Computing for the Soc
 
 **Dr. Jana M. Iverson, Ph.D.** <br />
          &nbsp; &nbsp; &nbsp; Professor, Associate Dean for Research <br />
-         &nbsp; &nbsp; &nbsp; College of Health & Rehabilitation Sciences: Sargent College, Boston University <br />
+         &nbsp; &nbsp; &nbsp; Sargent College of Health & Rehabilitation Sciences, Boston University <br />
          &nbsp; &nbsp; &nbsp; E-mail: iversonj@bu.edu <br />
          &nbsp; &nbsp; &nbsp; Phone: 617-358-5480
 
