@@ -4,8 +4,8 @@ Tel: +86 13971056980 <br />
 E-mail: cdang0073@gmail.com
 
 ## Education <br />
-MA, Social Sciences (Psychology), University of Chicago (_21-22_) <br />
-BS, Psychology & Rhetoric and Communication, University of Pittsburgh (_18-21_)
+MA, Social Sciences (Psychology), University of Chicago (_21 - 22_) <br />
+BS, Psychology & Rhetoric and Communication, University of Pittsburgh (_18 - 21_)
 
 ## Professional Training <br />
 ***AW Educational International Corp.*** <br /> 
